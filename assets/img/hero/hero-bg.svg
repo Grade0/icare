@@ -1,0 +1,17 @@
+<svg width="1781.4079999999997" height="796.067" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="1" x2="0.5" y1="0" x1="0.5" id="svg_5">
+   <stop offset="0" stop-color="#445469"/>
+   <stop offset="1" stop-color="#bbab96"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#445469" d="m1771.228003,0c56.3,272.618 -131.189,364.024 -310.13,505.374c-347.561,273.959 -503.57,14.469 -1065.8,253.673s-359.832,-759.047 -359.832,-759.047l1735.762,0z"/>
+  <path stroke="url(#gradbox_stroke)" id="svg_2" fill="url(#svg_5)" d="m176.14297,1.64398c-41.4,185.71 96.459,247.977 228.027,344.266c255.548,186.624 370.256,9.856 783.643,172.8s264.57,-517.07 264.57,-517.07l-1276.24,0.004z"/>
+ </g>
+</svg>

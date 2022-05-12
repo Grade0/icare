@@ -1,0 +1,88 @@
+<svg width="370.00000000000006" height="160" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle fill="#445469" id="svg_2" r="5" cy="5" cx="5"/>
+  <circle fill="#445469" id="svg_3" r="5" cy="5" cx="35"/>
+  <circle fill="#445469" id="svg_4" r="5" cy="5" cx="65"/>
+  <circle fill="#445469" id="svg_5" r="5" cy="5" cx="95"/>
+  <circle fill="#445469" id="svg_6" r="5" cy="5" cx="125"/>
+  <circle fill="#445469" id="svg_7" r="5" cy="5" cx="155"/>
+  <circle fill="#445469" id="svg_8" r="5" cy="5" cx="185"/>
+  <circle fill="#445469" id="svg_9" r="5" cy="5" cx="215"/>
+  <circle fill="#445469" id="svg_10" r="5" cy="5" cx="245"/>
+  <circle fill="#445469" id="svg_11" r="5" cy="5" cx="275"/>
+  <circle fill="#445469" id="svg_12" r="5" cy="5" cx="305"/>
+  <circle fill="#445469" id="svg_13" r="5" cy="5" cx="335"/>
+  <circle fill="#445469" id="svg_14" r="5" cy="5" cx="365"/>
+  <circle fill="#445469" id="svg_15" r="5" cy="35" cx="5"/>
+  <circle fill="#445469" id="svg_16" r="5" cy="35" cx="35"/>
+  <circle fill="#445469" id="svg_17" r="5" cy="35" cx="65"/>
+  <circle fill="#445469" id="svg_18" r="5" cy="35" cx="95"/>
+  <circle fill="#445469" id="svg_19" r="5" cy="35" cx="125"/>
+  <circle fill="#445469" id="svg_20" r="5" cy="35" cx="155"/>
+  <circle fill="#445469" id="svg_21" r="5" cy="35" cx="185"/>
+  <circle fill="#445469" id="svg_22" r="5" cy="35" cx="215"/>
+  <circle fill="#445469" id="svg_23" r="5" cy="35" cx="245"/>
+  <circle fill="#445469" id="svg_24" r="5" cy="35" cx="275"/>
+  <circle fill="#445469" id="svg_25" r="5" cy="35" cx="305"/>
+  <circle fill="#445469" id="svg_26" r="5" cy="35" cx="335"/>
+  <circle fill="#445469" id="svg_27" r="5" cy="35" cx="365"/>
+  <circle id="svg_28" r="5" fill="#dcb493" cy="65" cx="5"/>
+  <circle id="svg_29" r="5" fill="#dcb493" cy="65" cx="35"/>
+  <circle id="svg_30" r="5" fill="#dcb493" cy="65" cx="65"/>
+  <circle id="svg_31" r="5" fill="#dcb493" cy="65" cx="95"/>
+  <circle id="svg_32" r="5" fill="#dcb493" cy="65" cx="125"/>
+  <circle id="svg_33" r="5" fill="#dcb493" cy="65" cx="155"/>
+  <circle id="svg_34" r="5" fill="#fff" cy="65" cx="185"/>
+  <circle id="svg_35" r="5" fill="#fff" cy="65" cx="215"/>
+  <circle id="svg_36" r="5" fill="#fff" cy="65" cx="245"/>
+  <circle id="svg_37" r="5" fill="#fff" cy="65" cx="275"/>
+  <circle id="svg_38" r="5" fill="#fff" cy="65" cx="305"/>
+  <circle id="svg_39" r="5" fill="#fff" cy="65" cx="335"/>
+  <circle id="svg_40" r="5" fill="#fff" cy="65" cx="365"/>
+  <circle id="svg_41" r="5" fill="#dcb493" cy="95" cx="5"/>
+  <circle id="svg_42" r="5" fill="#dcb493" cy="95" cx="35"/>
+  <circle id="svg_43" r="5" fill="#dcb493" cy="95" cx="65"/>
+  <circle id="svg_44" r="5" fill="#dcb493" cy="95" cx="95"/>
+  <circle id="svg_45" r="5" fill="#dcb493" cy="95" cx="125"/>
+  <circle id="svg_46" r="5" fill="#dcb493" cy="95" cx="155"/>
+  <circle id="svg_47" r="5" fill="#fff" cy="95" cx="185"/>
+  <circle id="svg_48" r="5" fill="#fff" cy="95" cx="215"/>
+  <circle id="svg_49" r="5" fill="#fff" cy="95" cx="245"/>
+  <circle id="svg_50" r="5" fill="#fff" cy="95" cx="275"/>
+  <circle id="svg_51" r="5" fill="#fff" cy="95" cx="305"/>
+  <circle id="svg_52" r="5" fill="#fff" cy="95" cx="335"/>
+  <circle id="svg_53" r="5" fill="#fff" cy="95" cx="365"/>
+  <circle id="svg_54" r="5" fill="#dcb493" cy="125" cx="5"/>
+  <circle id="svg_55" r="5" fill="#dcb493" cy="125" cx="35"/>
+  <circle id="svg_56" r="5" fill="#dcb493" cy="125" cx="65"/>
+  <circle id="svg_57" r="5" fill="#dcb493" cy="125" cx="95"/>
+  <circle id="svg_58" r="5" fill="#dcb493" cy="125" cx="125"/>
+  <circle id="svg_59" r="5" fill="#dcb493" cy="125" cx="155"/>
+  <circle id="svg_60" r="5" fill="#dcb493" cy="125" cx="185"/>
+  <circle id="svg_61" r="5" fill="#fff" cy="125" cx="215"/>
+  <circle id="svg_62" r="5" fill="#fff" cy="125" cx="245"/>
+  <circle id="svg_63" r="5" fill="#fff" cy="125" cx="275"/>
+  <circle id="svg_64" r="5" fill="#fff" cy="125" cx="305"/>
+  <circle id="svg_65" r="5" fill="#fff" cy="125" cx="335"/>
+  <circle id="svg_66" r="5" fill="#fff" cy="125" cx="365"/>
+  <circle id="svg_67" r="5" fill="#dcb493" cy="155" cx="5"/>
+  <circle id="svg_68" r="5" fill="#dcb493" cy="155" cx="35"/>
+  <circle id="svg_69" r="5" fill="#dcb493" cy="155" cx="65"/>
+  <circle id="svg_70" r="5" fill="#dcb493" cy="155" cx="95"/>
+  <circle id="svg_71" r="5" fill="#dcb493" cy="155" cx="125"/>
+  <circle id="svg_72" r="5" fill="#dcb493" cy="155" cx="155"/>
+  <circle id="svg_73" r="5" fill="#dcb493" cy="155" cx="185"/>
+  <circle id="svg_74" r="5" fill="#dcb493" cy="155" cx="215"/>
+  <circle id="svg_75" r="5" fill="#fff" cy="155" cx="245"/>
+  <circle id="svg_76" r="5" fill="#fff" cy="155" cx="275"/>
+  <circle id="svg_77" r="5" fill="#fff" cy="155" cx="305"/>
+  <circle id="svg_78" r="5" fill="#fff" cy="155" cx="335"/>
+  <circle id="svg_79" r="5" fill="#fff" cy="155" cx="365"/>
+ </g>
+</svg>
