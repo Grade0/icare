@@ -770,7 +770,7 @@ p {
   background-image: url("../img/hero/hero-bg.svg");
   background-position: top center;
   background-repeat: no-repeat;
-  background-size: 105% 100%;
+  background-size: cover;
 }
 
 @media (max-width: 767px) {
@@ -1367,7 +1367,7 @@ p {
 /* ======= footer css ======= */
 .footer {
   background-image: url("../img/footer/footer-bg.svg");
-  background-size: 115%;
+  background-size: cover;
   background-position: top right;
   padding-top: 260px;
   margin-top: 100px;
